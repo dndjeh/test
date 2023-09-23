@@ -1,3 +1,5 @@
 https://shortcuts.tistory.com/8
 *  에러 무시 강제 push 명령어
  - git push -u origin +main
+* 현재 연결된 래퍼지토리 끊기
+ - rm -rf .git/
