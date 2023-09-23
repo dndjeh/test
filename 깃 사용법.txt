@@ -1,1 +1,3 @@
 https://shortcuts.tistory.com/8
+*  에러 무시 강제 push 명령어
+ - git push -u origin +main
